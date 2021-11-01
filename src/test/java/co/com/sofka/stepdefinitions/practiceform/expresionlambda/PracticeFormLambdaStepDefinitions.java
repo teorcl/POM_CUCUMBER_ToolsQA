@@ -62,7 +62,7 @@ public class PracticeFormLambdaStepDefinitions extends WebUI implements En {
         });
 
     }
-    
+
 
     //Esto sería mi valor "teorico"
     private List<String> forSubmittedForm(){

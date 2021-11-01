@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
         publish = true,
         plugin = {"pretty","html:target/cucumber-report/cucumber.html"},
         features = {"src/test/resources/features/webui/practiceform/practiceform.feature"},
-        glue = {"co.com.sofka.stepdefinitions.practiceform"}
+        glue = {"co.com.sofka.stepdefinitions.practiceform.cucumber"}
 )
 public class PracticeFormRunner {
     //Aquí se pueden hacer configuaraciones previas antes del test(antes de los stepdefinitions)
