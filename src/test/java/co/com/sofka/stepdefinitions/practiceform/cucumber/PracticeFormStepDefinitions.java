@@ -65,6 +65,7 @@ public class PracticeFormStepDefinitions extends WebUI {
         }
     }
 
+
     //Esto sería mi valor "teorico"
     private List<String> forSubmittedForm(){
         List<String> submitedFormResult = new ArrayList<>();

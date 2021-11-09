@@ -25,6 +25,9 @@ public class PracticeForm extends CommonActionsOnPages {
     private final By userNumberMobile = By.id("userNumber");
     private final By btnSubmit = By.id("submit");
 
+    //===LOCATOR FALTANTES PARA EL FORMULARIO COMPLETO===
+
+
     //Localizadores--para--validar--los--datos--del--registro-------------------
     //=======================================================================//
     private final By assertionStudentName = By.xpath("/html/body/div[4]/div/div/div[2]/div/table/tbody/tr[1]/td[2]");
@@ -66,6 +69,8 @@ public class PracticeForm extends CommonActionsOnPages {
 
         doSubmit(btnSubmit);
     }
+
+
 
     //===Metodo para saber si ya se hizo el regitro
     // (Algo así como un valor experimental)

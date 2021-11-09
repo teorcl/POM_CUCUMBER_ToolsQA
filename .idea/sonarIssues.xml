@@ -3,7 +3,47 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AutomationOrange/toolsqapom/src/main/java/co/com/sofka/page/panelLogin/PanelLogin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../OrangeHRMBest/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OrangeHRMBest/src/main/java/co/com/sofka/model/LoginModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OrangeHRMBest/src/main/java/co/com/sofka/model/loginmodel/LoginModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OrangeHRMBest/src/main/java/co/com/sofka/page/common/CommonActionsOnPages.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OrangeHRMBest/src/main/java/co/com/sofka/page/deleteuserpage/DeleteUserPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OrangeHRMBest/src/main/java/co/com/sofka/page/loginpage/LoginPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OrangeHRMBest/src/test/java/co/com/sofka/runners/deleteuser/DeleteUserRunner.java">
           <value>
             <set />
           </value>
@@ -13,7 +53,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../OrangeHRMBest/src/test/java/co/com/sofka/stepdefinitions/deleteuser/DeleteUserStepDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../OrangeHRMBest/src/test/java/co/com/sofka/stepdefinitions/login/LoginOrangeStepDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OrangeHRMBest/src/test/java/co/com/sofka/stepdefinitions/setup/WebUI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OrangeHRMBest/src/test/resources/features/webui/orangehrm/deleteuser.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OrangeHRMBest/src/test/resources/features/webui/orangehrm/eliminarusuarioexistente.feature">
           <value>
             <set />
           </value>
@@ -43,7 +103,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/page/practiceformcompletepage/PracticeFormCompletePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/util/Gender.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/util/Hobbies.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/log4j2.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/runners/practiceform/PracticeFormCompleteRunner.java">
           <value>
             <set />
           </value>
@@ -73,12 +153,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/stepdefinitions/practiceformcomplete/PracticeFormCompleteStepDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/co/com/sofka/stepdefinitions/setup/WebUI.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/resources/features/webui/practiceform/practiceform.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/webui/practiceform/practiceformcomplete.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../frameworkSofkaBase/frameworkSofkaBase/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../frameworkSofkaBase/frameworkSofkaBase/src/main/java/co/com/client/webproject/test/controllers/ControllerDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../toolsqapom/src/main/java/co/com/sofka/page/commond/CommonActionsOnPages.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../toolsqapom/src/main/java/co/com/sofka/page/practiceform/PracticeForm.java">
           <value>
             <set />
           </value>
